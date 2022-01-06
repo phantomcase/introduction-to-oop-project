@@ -1,6 +1,6 @@
 package com.techreturner.introtooop;
 
-public abstract class Bird implements DanceImpl {
+public abstract class Bird implements Dance {
 
     protected String name;
     protected String color;
